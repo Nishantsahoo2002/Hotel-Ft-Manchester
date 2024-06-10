@@ -62,7 +62,7 @@ nav {
 }
 
 .nav-menu a:hover {
-    color: #000000;
+    color: #0f97aa;
 }
 
 
@@ -467,7 +467,7 @@ footer{
     
     padding: 80px ;
     background-color: #063c43;
- 
+    margin-top: 100px;
 } 
 .footer-one{
     display: flex;
@@ -573,10 +573,12 @@ footer{
     
     height: 44px;
     width: 444px;
+
     
 }
 .social-media-icon{
   padding-left: 30px;
+  justify-content: space-evenly;
 }
 
 hr{
@@ -586,6 +588,7 @@ hr{
 .copy p{
     color: white;
     margin-top: 40px;
+    font-size: 0.7rem;
 }
 
 .last-one{
@@ -595,8 +598,9 @@ hr{
 }
 
 .global-language{
-    padding-left: 940px;
+    padding-left: 900px;
     margin-top: 40px;
+    display: flex; 
 }
 .lang{
     padding-left: 35px;
