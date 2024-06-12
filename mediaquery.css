@@ -1,0 +1,10 @@
+@media only screen and (max-width:1024px) {
+    .nav-menu{
+        display: none ;
+    }
+    .nav-toggle{
+        display: block;
+        margin-left: 20px;
+        color: #0f97aa;
+    }
+}
