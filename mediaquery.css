@@ -7,4 +7,11 @@
         margin-left: 20px;
         color: #0f97aa;
     }
+    .logo{
+        font-size: 1.5rem;
+    }
+    #content-2{
+        display: flex;
+        flex-direction: column;
+    }
 }
